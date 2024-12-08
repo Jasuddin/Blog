@@ -4,7 +4,7 @@
         return (
             <footer style={styles.footer}>
                 <div>
-                    <p>© {new Date().getFullYear()} Rafew Technology. All Rights Reserved.</p>
+                    <p>© {new Date().getFullYear()} Rahman Technical Ind. All Rights Reserved.</p>
                     <p>
                         <a href="/privacy-policy" style={styles.link}>
                             Privacy Policy
